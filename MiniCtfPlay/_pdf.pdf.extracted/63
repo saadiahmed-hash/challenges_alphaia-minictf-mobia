@@ -1,0 +1,12 @@
+2 0 3 630 4 937 5 1081 6 1121 7 1182 8 1243 9 1337 10 1437 11 1579 12 1608
+<< /JavaScript << /JS (\n\tvar Data = [ 0x4e, 0x79, 0x63, 0x75, 0x6e, 0x6f, 0x76, 0x67, 0x7b, 0x6a, 0x75, 0x34, 0x67, 0x5f, 0x79, 0x33, 0x67, 0x5f, 0x7a, 0x33,0x5f, 0x67, 0x75, 0x31, 0x61, 0x78, 0x5f, 0x67, 0x30, 0x5f,0x71, 0x30, 0x5f, 0x67, 0x75, 0x31, 0x66, 0x7d];\n\tvar resault ="";\n\tfor\( var i=0;i<Data.length;i++\){\n\t\tresault+=String.fromCharCode\(Data[i]\);\n\t}\n\tapp.alert\("you take this :"+resault.substring\(0,8\) \);) /S /JavaScript >> /Lang (en-US) /MarkInfo << /Marked true >> /OpenAction [ 4 0 R /XYZ null null 0 ] /Outlines 5 0 R /PageMode /UseOutlines /Pages 6 0 R /StructTreeRoot 7 0 R /Type /Catalog >>
+<< /CreationDate (D:20250120143508+01'00') /Creator <feff0044007200610077> /Producer <feff004c0069006200720065004f00660066006900630065002000320034002e0038002e0032002e003100200028005800380036005f0036003400290020002f0020004c0069006200720065004f0066006600690063006500200043006f006d006d0075006e006900740079> >>
+<< /Contents 13 0 R /MediaBox [ 0 0 595.247244094488 841.889763779528 ] /Parent 6 0 R /Resources 8 0 R /StructParents 0 /Tabs /S /Type /Page >>
+<< /Count 1 /First 9 0 R /Last 9 0 R >>
+<< /Count 1 /Kids [ 4 0 R ] /Resources 8 0 R /Type /Pages >>
+<< /K [ 10 0 R ] /ParentTree 11 0 R /Type /StructTreeRoot >>
+<< /Font 12 0 R /ProcSet [ /PDF /Text /ImageC /ImageI /ImageB ] /XObject << /Im5 14 0 R >> >>
+<< /Count 0 /Dest [ 4 0 R /XYZ 0 841.889 0 ] /Parent 5 0 R /Title <feff005000610067006500200031> >>
+<< /A << /BBox [ 46.318 381.514 577.361 557.007 ] /O /Layout /Placement /Block >> /K [ 0 ] /P 7 0 R /Pg 4 0 R /S /Figure /Type /StructElem >>
+<< /Nums [ 0 [ 10 0 R ] ] >>
+<< >>
